@@ -1,4 +1,4 @@
-# Métodos Numéricos(IF816) EC-2018.2\
+# Métodos Numéricos(IF816) EC-2018.2
 Autor: Mateus Caracciolo Marques\
 Login: mcm2\
 \
