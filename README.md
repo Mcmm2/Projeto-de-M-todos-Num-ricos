@@ -21,7 +21,7 @@ Como executar o código:
 Exemplos de código:
 
 .Arquivo de entrada: "entrada.txt":
-\\\
+
 euler 0 0 0.1 20 1-t+4*y
 euler_inverso 0 0 0.1 20 1-t+4*y
 euler_aprimorado 0 0 0.1 20 1-t+4*y
@@ -41,10 +41,10 @@ formula_inversa_by_euler 0 0 0.1 20 1-t+4*y 6
 formula_inversa_by_euler_inverso 0 0 0.1 20 1-t+4*y 6
 formula_inversa_by_euler_aprimorado 0 0 0.1 20 1-t+4*y 6
 formula_inversa_by_runge_kutta 0 0 0.1 20 1-t+4*y 7
-\\\
+
 
 .Arquivo de saída: "saida.txt":
-\\\
+
 Método de euler:
  0 0.0
  1 0.1
@@ -481,5 +481,4 @@ Método de formula_inversa_by_runge_kutta:
 18 268.824895152577
 19 403.233370399925
 20 604.896002627814
-\\\
 
